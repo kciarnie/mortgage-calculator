@@ -5,7 +5,7 @@
 * Create a mortgage calculator API using any language/tech stack.  The API should accept and return JSON.
 
 ### How do I get set up? ###
-npm install
+`npm install`
 
 this workspace has node_modules in it which are all the modules associated with expressJS and npm.
 
